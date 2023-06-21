@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3954b235-e57a-4e20-b67d-d54bc5840091}">
+		<property name="assetPath">
+			<value>deadtheme.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.162358276643992</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d9082769-f6a6-430b-a731-5a6f05bf77d3}</destination>
+		</relationship>
+	</object>
+</objects>

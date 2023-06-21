@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a6da1100-aeca-4ed0-880d-46ad57066735}">
+		<property name="assetPath">
+			<value>twilightzone.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>317.53848072562357</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d9082769-f6a6-430b-a731-5a6f05bf77d3}</destination>
+		</relationship>
+	</object>
+</objects>
